@@ -2,8 +2,7 @@
 
 # Karma Sphinx Theme
 
-A simple responsive theme for sphinx. This theme is in it's early stage of development so only 
-contains limited options.
+Literally theme but with dark mode
 
 ## Installing
 
